@@ -1,0 +1,64 @@
+/* Links */
+a {
+    color: #303030;
+}
+
+.si i {
+	color: #303030;
+}
+
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color: #ffffff;
+background-color: #303030;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+color: #303030;
+}
+
+.btn-theme {
+  background-color: #ffffff;
+}
+
+.tabbable .nav-stacked > li:active, li:focus, li.active h4 {
+	color: #303030;
+}
+
+#cta-bar:hover {
+	background-color: #efffa5;
+}
+
+#cta-bar {
+	background: #c3c3c3;
+	color: #ccc;	
+}
+
+p.capitalize:first-letter {
+	background: #303030; 
+}
+
+.team-info {
+  background: #303030;
+}
+
+#black i {
+	color: #303030;
+}
+
+.progress-bar-theme {
+  background-color: #303030;
+}
+
+.team-stat i {
+	color: #303030;
+}
+
+.pricing-table-plan {
+	border-top: 4px solid #303030;
+}
+
+.blog-post blockquote {
+  border-left: 4px solid #303030;
+}
+
