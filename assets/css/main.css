@@ -52,6 +52,7 @@ p {
 
 /* Links */
 a {
+	font-weight: bold;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -118,7 +119,7 @@ border-bottom-width: 0px;
 	visibility: hidden;
 }
 
-.si:hover {
+.col-lg-4.desc.si:hover {
 	background-color: #ffffff;
 }
 
@@ -329,7 +330,7 @@ p.capitalize:first-letter {
 	background: url(../img/bg01.jpg) no-repeat center top;
 	margin-top: 0px;
 	padding-top: 50px;
-	background-attachment: relative;
+	background-attachment: fixed;
 	background-position: top center;
 	min-height: 850px;
 	width: 100%;
@@ -448,7 +449,7 @@ p.capitalize:first-letter {
 	margin-top: 0px;
 	padding-top:100px;
 	text-align:center;
-	background-attachment: relative;
+	background-attachment: fixed;
 	background-position: center center;
 	min-height: 500px;
 	width: 100%;
@@ -489,7 +490,7 @@ p.capitalize:first-letter {
 	margin-top: 0px;
 	padding-top:100px;
 	text-align:center;
-	background-attachment: relative;
+	background-attachment: fixed;
 	background-position: center center;
 	min-height: 350px;
 	width: 100%;
@@ -517,7 +518,7 @@ p.capitalize:first-letter {
 	margin-top: 0px;
 	padding-top:50px;
 	text-align:center;
-	background-attachment: relative;
+	background-attachment: fixed;
 	background-position: center center;
 	min-height: 450px;
 	width: 100%;
