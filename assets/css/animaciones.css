@@ -529,8 +529,8 @@ expandOpen
 	animation-name: expandOpen;
 	-webkit-animation-name: expandOpen;	
 
-	animation-duration: 1.2s;	
-	-webkit-animation-duration: 1.2s;
+	animation-duration: 3.2s;	
+	-webkit-animation-duration: 3.2s;
 
 	animation-timing-function: ease-out;	
 	-webkit-animation-timing-function: ease-out;	
@@ -722,8 +722,8 @@ pulse
 	animation-name: pulse;
 	-webkit-animation-name: pulse;	
 
-	animation-duration: 1.5s;	
-	-webkit-animation-duration: 1.5s;
+	animation-duration: 3.5s;	
+	-webkit-animation-duration: 3.5s;
 
 	animation-iteration-count: infinite;
 	-webkit-animation-iteration-count: infinite;
